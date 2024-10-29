@@ -6,8 +6,8 @@
 - Phone - +38 063 491 00 81
 - Mail - <jackal3166@gmail.com>
 - LinkedIn - [Viktor Filippov](https://linkedin.com/viktor-filippov)
-- Github - [jackal7819](github.com/jackal7819)
-- Telegram - [jackal3156](telegram.me/jackal3156)
+- Github - [jackal7819](https://github.com/jackal7819)
+- Telegram - [jackal3156](https://telegram.me/jackal3156)
 
 ## About Me
 
@@ -26,3 +26,22 @@ I am a budding Front-End Developer driven by a meticulous approach and a fervent
 - GIT/GITHUB
 - VITE
 
+## Code Examples
+
+```javascript
+function palindrome(str) {
+    const strAlphanumeric = str.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const strReverse = strAlphanumeric.split('').reverse().join('');
+    return strAlphanumeric === strReverse;
+}
+```
+
+## Education
+
+- Priazovsky State Technical University - Master's Degree | Industrial Heat Engineering
+
+## Languages
+
+English - Intermediate
+Ukrainian - Native
+Russian - Native
