@@ -2,7 +2,7 @@
 
 ## Front-End Developer
 
-### [Curriculum vitae](https://jackal7819.github.io/rsschool-cv/cv)
+### [Curriculum vitae](https://jackal7819.github.io/rsschool-cv/)
 
 ### About Me
 
