@@ -42,6 +42,6 @@ function palindrome(str) {
 
 ## Languages
 
-English - Intermediate
-Ukrainian - Native
-Russian - Native
+- English - Intermediate
+- Ukrainian - Native
+- Russian - Native
